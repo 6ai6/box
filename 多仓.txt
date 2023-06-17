@@ -1,0 +1,7 @@
+{
+    "storeHouse": [{
+            "sourceName": "🌈多仓",
+            "sourceUrl": "https://try.gitea.io/AI/duocang/raw/branch/main/11多仓地址.json"
+        }
+    ]
+}
