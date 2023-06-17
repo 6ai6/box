@@ -10,12 +10,12 @@
 
 
          {
-            "url": "https://cf.weixine.net/ysc.json",
-            "name": "运输车CF加速"
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json",
+            "name": "运输车加速路线"
         },
         {
             "url": "https://weixine.net/ysc.json",
-            "name": "运输车主线"
+            "name": "运输车"
         },
 
 
