@@ -1,6 +1,6 @@
 {
     "storeHouse": [{
-            "sourceName": "🌈多仓",
+            "sourceName": "🌈仓库多线",
             "sourceUrl": "https://jihulab.com/oAI/duocang/-/raw/master/整理收集.json"
         }
     ]
