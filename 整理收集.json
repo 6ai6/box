@@ -3,10 +3,12 @@
         "url": "https://yydsys.top/duo",
         "name": "🏡应用多多"},
     
-  { "url": "http://yydsys.top/duo/ali",    "name": "🚀多多阿里" },
+  { "url": "http://yydsys.top/duo/ali",  "name": "🚀多多阿里" },
 
 
-  { "url": "https://cn.kstore.space/download/3010/ppa.json",    "name": "🚀多多阿里备用" },
+  { "url": "https://cn.kstore.space/download/3010/ppa.json",  "name": "🚀阿里备用"},
+
+  {"url":"https://download.kstore.space/download/3010/ppa.json","name":"🚀阿里线路"},
 
 
 
