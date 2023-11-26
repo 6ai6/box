@@ -17,7 +17,7 @@
    {"url": "http://rihou.cc:88/荷城茶秀",  "name": "荷城茶秀" },  
 
 
-   {"url": "https://jihulab.com/oAI/K/-/raw/main/moyu.json?ref_type=heads",  "name": "🚀4K源" },  
+   //{"url": "https://jihulab.com/oAI/K/-/raw/main/moyu.json?ref_type=heads",  "name": "🚀4K源" },  
       
             
    {  "url": "https://cf.weixine.net/ysc.json",  "name": "运输车加速路线" },
@@ -55,9 +55,7 @@
        {  "url": "https://pastebin.com/raw/5NHaxyGR",    "name": "🚀道长线路" },
 
 
-     { "url": "http://w.g9.pub:66/f/6Y3sy/%E7%88%BD%E7%BF%BB%E5%A4%A9.txt",
-            "name": "🚀爽翻天线路"
-        },
+     //{ "url": "http://w.g9.pub:66/f/6Y3sy/%E7%88%BD%E7%BF%BB%E5%A4%A9.txt", "name": "🚀爽翻天线路" },
         
      { "url": "http://ftp6590005.host131.sanfengyun.cn/free/api.json",    "name": "🚀青木" },
         
