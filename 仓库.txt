@@ -1,7 +1,7 @@
 {
     "storeHouse": [{
             "sourceName": "🌈仓库多线",
-            "sourceUrl": "https://raw.gitcode.com/zzzwwbb/q/blobs/a0f1235aee36a75b705eaf5f972c2e2404fbe692/%E6%95%B4%E7%90%86%E6%94%B6%E9%9B%86.json"
+            "sourceUrl": "https://raw.gitcode.com/zzzwwbb/q/raw/master/整理收集.json"
         }
     ]
 }
