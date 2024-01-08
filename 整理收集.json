@@ -3,7 +3,7 @@
        
          { "url": "http://www.wya6.cn/tv/yc.json",  "name": "无意"},
 
-         // { "url": "https://raw.liucn.cc/box/m.json",  "name": "无名字" },
+          { "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",  "name": "云星日记" },
 
        
         { "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",    "name": "🏡儿童源"},
