@@ -1,10 +1,10 @@
 {
     "urls": [
 
-              { "url": "http://www.wya6.cn/tv/yc.json",                    "name": "无意" },
+        { "url": "http://www.wya6.cn/tv/yc.json",   "name": "无意" },
 
 
-            { "url": "http://lin.ohphp.com/1/my.json",  "name": "4K" },
+       { "url": "http://lin.ohphp.com/1/my.json",  "name": "4K" },
 
          { "url": "http://mdxgh.dynv6.net",  "name": "🚀豆豆" },
 
