@@ -70,18 +70,15 @@
 
 
 
-
-
-
         {"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer","name": "🏡儿童源"},
 
 
-       {  "url": "https://pastebin.com/raw/5NHaxyGR",    "name": "🚀道长线路" },
+       //{  "url": "https://pastebin.com/raw/5NHaxyGR",    "name": "🚀道长线路" },
 
 
      //{ "url": "http://w.g9.pub:66/f/6Y3sy/%E7%88%BD%E7%BF%BB%E5%A4%A9.txt", "name": "🚀爽翻天线路" },
         
-       { "url": "http://ftp6590005.host131.sanfengyun.cn/free/api.json",    "name": "🚀青木" },
+       //{ "url": "http://ftp6590005.host131.sanfengyun.cn/free/api.json",    "name": "🚀青木" },
         
       //{"url": "http://t.84jia.com:80/tvbox/tvbox.json",  "name": "🚀小鱼线路" },
 
@@ -106,21 +103,15 @@
        // {   "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8 ",            "name": "云星日记"},
      
      
-        {   "url": "http://52bsj.vip:98/wuai",       "name": "🐹吾爱线路" },    
+        //{   "url": "http://52bsj.vip:98/wuai",       "name": "🐹吾爱线路" },    
 
      
 
-   {
-      "name": "春盈线路",
-      "url": "https://wds.ecsxs.com/230989.json"
-    },
+   //{"name": "春盈线路","url": "https://wds.ecsxs.com/230989.json"},
 
 
     
-   {
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
-        "name": "🚀蜂蜜线路"
-    },                                                               
+   //{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json","name": "🚀蜂蜜线路" },                                                               
     
     {    "url": "https://tvbox.cainisi.cf",         "name": "🚀菜妮丝线路"  },
     
