@@ -10,7 +10,7 @@
 
           //{ "url": "http://我不是.摸鱼儿.top",  "name": "🚀摸鱼" },
 
-          { "url": "https://qixing.myhkw.com/tianwei/svip.json",  "name": "🚀天微影视" },
+          //{ "url": "https://qixing.myhkw.com/tianwei/svip.json",  "name": "🚀天微影视" },
 
             //{ "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",  "name": "🚀ok影视" },
      
@@ -120,10 +120,7 @@
         "name": "🚀香雅情线路"
     },        
     
-   {
-        "url": "http://101.34.67.237/config/1",
-        "name": "🚀小雅线路"
-    },
+   
    {
         "url": "http://home.jundie.top:81/top98.json",
         "name": "🚀俊佬线路"
