@@ -18,7 +18,7 @@
       "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/sf467/Tvbox1/main/优质.json"
     },
     {
-      "sourceName": "🔞聚合仓",
+      "sourceName": "9+9聚合仓",
       "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/sf467/Tvbox1/main/cr.json"
     }
 
