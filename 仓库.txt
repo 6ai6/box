@@ -1,26 +1,48 @@
 {
     "storeHouse": [
         {
-            "sourceName": "🌈仓库多线",
-            "sourceUrl": "https://raw.gitcode.com/zzzwwbb/q/raw/master/整理收集.json"
+            "sourceName": "地址:https://tvbox.ittu.cn",
+            "sourceUrl": "https://tvbox.ittu.cn/storehouse/moyuonline.php?type=address"
         },
-
-    {
-      "sourceName": "🦉个人仓",
-      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/my.json"
-    },
-    {
-      "sourceName": "🐋潇洒仓",
-      "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"
-    },
-    {
-      "sourceName": "🥗聚合仓",
-      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/sf467/Tvbox1/main/优质.json"
-    },
-    {
-      "sourceName": "9+9聚合仓",
-      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/sf467/Tvbox1/main/cr.json"
-    }
-
+        {
+            "sourceName": "Moyu | 推荐在线仓库",
+            "sourceUrl": "https://tvbox.ittu.cn/storehouse/moyuonline.php"
+        },
+        {
+            "sourceName": "Moyu | 挺好仓",
+            "sourceUrl": "http://ztha.top/TVBox/GYCK.json"
+        },
+        {
+            "sourceName": "Moyu | 拾光仓",
+            "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"
+        },
+        {
+            "sourceName": "Moyu | 恒星仓",
+            "sourceUrl": "http://yuhuahx.com/hxck1.txt"
+        },
+        {
+            "sourceName": "Moyu | 摸鱼仓",
+            "sourceUrl": "http://小鱼干.摸鱼儿.top"
+        },
+        {
+            "sourceName": "Moyu | 天微仓",
+            "sourceUrl": "https://tvkj.top/DC.txt"
+        },
+        {
+            "sourceName": "Moyu | z5仓",
+            "sourceUrl": "https://zzzzz.tv/tv/z.txt"
+        },
+        {
+            "sourceName": "Moyu | 蜂蜜仓",
+            "sourceUrl": "http://fmys.top/online.json"
+        },
+        {
+            "sourceName": "Moyu | 朱师傅仓",
+            "sourceUrl": "https://d.kstore.space/download/5303/zhushifu/002.txt"
+        },
+        {
+            "sourceName": "Moyu | 云星仓",
+            "sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库/api.json"
+        }
     ]
 }
