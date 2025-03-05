@@ -23,8 +23,10 @@
 
          //{ "url": "https://9877.kstore.space/FourD/api.json",  "name": "🚀潇洒" },
 
-          
-          { "url": "http://175.178.251.183:6689/tv.txt"，"name": "🚀懒人线路" },
+              
+    
+      { "url": "http://175.178.251.183:6689/tv.txt",
+            "name": "🚀懒人线路"  },
 
           { "url": "https://7337.kstore.space/twvip/自用测试.json",  "name": "🚀天微" },
 
