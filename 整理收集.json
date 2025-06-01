@@ -92,13 +92,7 @@
 
    //{"name": "春盈线路","url": "https://wds.ecsxs.com/230989.json"},
 
-
-    
-   //{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json","name": "🚀蜂蜜线路" },                                                               
-    
-         
-    
-        
+   
    {
         "url": "http://home.jundie.top:81/top98.json",
         "name": "🚀俊佬线路"
