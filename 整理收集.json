@@ -25,8 +25,7 @@
 
               
     
-      { "url": "http://175.178.251.183:6689/tv.txt",
-            "name": "🚀懒人线路"  },
+      //{ "url": "http://175.178.251.183:6689/tv.txt","name": "🚀懒人线路"  },
 
           { "url": "https://7337.kstore.space/twvip/自用测试.json",  "name": "🚀天微" },
 
@@ -43,10 +42,6 @@
 
     { "url": "https://6296.kstore.vip/facat.json",    "name": "🚀肥猫2" },
 
-       {"url": "http://rihou.cc:88/荷城茶秀",  "name": "荷城茶秀" },  
-
-        
-          { "url": "https://weixine.net/ysc.json",  "name": "运输车"  },
 
           { "url": "https://mpanso.me/DEMO.json",  "name": "小米小暴脾气"  },
     
@@ -94,10 +89,7 @@
    //{"name": "春盈线路","url": "https://wds.ecsxs.com/230989.json"},
 
    
-   {
-        "url": "http://home.jundie.top:81/top98.json",
-        "name": "🚀俊佬线路"
-    }, 
+   
    
    {
         "url": "https://raw.liucn.cc/box/m.json",
@@ -125,10 +117,7 @@
         "name": "🐹喵影视线路"
     },
             
-    {
-        "url": "https://源享家.ml/45127",
-        "name": "🐹源享家线路"
-    }, 
+    
    
     {
         "url": "https://la.kstore.space/download/2883/0110.txt",
