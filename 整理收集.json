@@ -60,7 +60,7 @@
            {"url": "http://fty.xxooo.cf/tv", "name": "🚀饭太硬3"},
 
 
-         {"url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "🚀南风"},
+         {"url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"， "name": "🚀南风"},
 
           { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/api.json",    "name": "🚀南风1" },
 
@@ -105,13 +105,11 @@
     },
 
      
-      {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/Hk/XYQTVBox.txt",
-      "name":"☣️海阔线路"},
+      
 
            
     {
-        "url": "http://8.210.220.114:8888/down/9un3Fm2YFW1f.json",
-        "name": "🐹星辰线路"
+       // "url": "http://8.210.220.114:8888/down/9un3Fm2YFW1f.json"， "name": "🐹星辰线路"
     },        
     
     
