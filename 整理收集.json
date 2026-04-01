@@ -31,7 +31,7 @@
 
          { "url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",  "name": "🚀潇洒" },
 
-
+       {"url": "https://qist.wyfc.qzz.io/xiaosa/api.json ","name": "🚀潇洒3"},
             
         { "url": "http://cdn.qiaoji8.com/tvbox.json","name": "🚀 巧技"  },
             
@@ -59,9 +59,9 @@
     
           {"url": "http://www.饭太硬.com/tv",   "name": "🚀饭太硬"},
 
-           {"url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp ", "name": "🚀饭太硬2"},
+           {"url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp ","name": "🚀饭太硬2"},
 
-          // {"url": "http://fty.xxooo.cf/tv", "name": "🚀饭太硬3"},
+          {"url": "https://qist.wyfc.qzz.io/fty.json", "name": "🚀饭太硬3"},
 
 
          {"url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "🚀南风"},
