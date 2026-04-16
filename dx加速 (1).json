@@ -34,7 +34,7 @@
         { 
             "url": "https://wget.la/https://raw.githubusercontent.com/6ai6/tvboxtg/refs/heads/main/摸鱼儿/api.json", 
             "name": "摸鱼儿" 
-        },
+        }，
         {   
         	"url": "https://wget.la/https://raw.githubusercontent.com/6ai6/tvboxtg/refs/heads/main/王二小/api.json", 
             "name": "王二小" 
@@ -62,11 +62,11 @@
         {
             "url": "https://wget.la/https://raw.githubusercontent.com/ls125781003/testboxapi/main/newwex/api.json",
             "name": "newwex"
-        }，
+        },
         {
             "url": "https://wget.la/https://raw.githubusercontent.com/ls125781003/testboxapi/main/huban/api.json",
             "name": "小虎斑"
-        }，
+        },
         {
             "url": "https://wget.la/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosa/api.json",
             "name": "潇洒单线路"
