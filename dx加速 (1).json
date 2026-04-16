@@ -4,6 +4,13 @@
             "url": "https://wget.la/https://raw.githubusercontent.com/6ai6/tvboxtg/refs/heads/main/饭太硬/api.json", 
             "name": "饭太硬" 
         },
+		
+      {
+         "url": "https://https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/dianshi.json", 
+            "name": "电视" 
+        },
+
+		
         { 
             "url": "https://wget.la/https://raw.githubusercontent.com/6ai6/tvboxtg/refs/heads/main/小米/api.json", 
             "name": "小米" 
@@ -55,11 +62,11 @@
         {
             "url": "https://wget.la/https://raw.githubusercontent.com/ls125781003/testboxapi/main/newwex/api.json",
             "name": "newwex"
-        },
+        }，
         {
             "url": "https://wget.la/https://raw.githubusercontent.com/ls125781003/testboxapi/main/huban/api.json",
             "name": "小虎斑"
-        },
+        }，
         {
             "url": "https://wget.la/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosa/api.json",
             "name": "潇洒单线路"
