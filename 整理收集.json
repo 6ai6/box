@@ -35,7 +35,7 @@
             
         { "url": "http://cdn.qiaoji8.com/tvbox.json","name": "🚀 巧技"  },
             
-         //{ "url": "http://175.178.251.183:6689/tv.txt","name": "🚀懒人线路"  },
+         { "url": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/fty.json","name": "🚀fty"  },
     
       //{ "url": "http://175.178.251.183:6689/tv.txt","name": "🚀懒人线路"  },
 
