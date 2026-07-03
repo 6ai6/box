@@ -4,24 +4,21 @@
         [
 
 
-        { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",   "name": "东离" },
+       // { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",   "name": "东离" },
 
+// { "url": "https://ghproxy.net/https://raw.githubusercontent.com/franksun1211/TVBOX/main/CKS2026.json",   "name": "裤佬" },
 
- { "url": "https://ghproxy.net/https://raw.githubusercontent.com/franksun1211/TVBOX/main/CKS2026.json",   "name": "裤佬" },
+     { "url": "http://home.jundie.top:81/top98.json",  "name": "俊佬" },
 
-        { "url": "http://home.jundie.top:81/top98.json",  "name": "俊佬" },
+       { "url": "http://www.小不点.com",   "name": "摸鱼儿" },
 
-           { "url": "http://www.小不点.com",   "name": "摸鱼儿" },
+      { "url": "http:/我不是.摸鱼儿.top",   "name": "摸鱼2" },
 
-            { "url": "http:/我不是.摸鱼儿.top",   "name": "摸鱼2" },
-
-            { "url": "https://6800.kstore.vip/fish.json",   "name": "摸鱼儿3" },
+       { "url": "https://6800.kstore.vip/fish.json",   "name": "摸鱼儿3" },
             
-       
-
-           
+             
             
-           { "url": "http://tvbox.王二小放牛娃.top",  "name": "🚀放牛娃2" },
+        { "url": "http://tvbox.王二小放牛娃.top",  "name": "🚀放牛娃2" },
 
             
            { "url": "https://9280.kstore.vip/wex.json",  "name": "放牛娃" },
