@@ -42,9 +42,9 @@
     
       //{ "url": "http://175.178.251.183:6689/tv.txt","name": "🚀懒人线路"  },
 
-          { "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/liu673cn/box/main/m.json",  "name": "🚀老刘备" },
+        //  { "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/liu673cn/box/main/m.json",  "name": "🚀老刘备" },
 
-        { "url": "https://jsdelivr.pai233.top/gh/6ai6/tvbox@master/0821.json",  "name": "🚀多和全+0821" },
+       // { "url": "https://jsdelivr.pai233.top/gh/6ai6/tvbox@master/0821.json",  "name": "🚀多和全+0821" },
 
             
      { "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",    "name": "🚀0826+jsm" },
@@ -58,7 +58,7 @@
     { "url": "https://6296.kstore.vip/facat.json",    "name": "🚀肥猫2" },
 
 
-          { "url": "https://mpanso.me/DEMO.json",  "name": "小米小暴脾气"  },
+          { "url": "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json",  "name": "小米小暴脾气"  },
     
           {"url": "http://www.饭太硬.com/tv",   "name": "🚀饭太硬"},
 
@@ -67,7 +67,7 @@
           {"url": "https://qist.wyfc.qzz.io/fty.json", "name": "🚀饭太硬3"},
 
 
-         //{"url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "🚀南风"},
+         {"url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "🚀南风"},
 
        
 
