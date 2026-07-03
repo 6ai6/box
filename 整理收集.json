@@ -4,21 +4,24 @@
         [
 
 
-       // { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",   "name": "东离" },
+           //   { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json","name": "🚀东离"  },
 
-// { "url": "https://ghproxy.net/https://raw.githubusercontent.com/franksun1211/TVBOX/main/CKS2026.json",   "name": "裤佬" },
 
-     { "url": "http://home.jundie.top:81/top98.json",  "name": "俊佬" },
+        //     { "url": "https://ghproxy.net/https://raw.githubusercontent.com/franksun1211/TVBOX/main/CKS2026.json",   "name": "裤佬" },
 
-       { "url": "http://www.小不点.com",   "name": "摸鱼儿" },
 
-      { "url": "http:/我不是.摸鱼儿.top",   "name": "摸鱼2" },
+              { "url": "http://home.jundie.top:81/top98.json",  "name": "俊佬" },
 
-       { "url": "https://6800.kstore.vip/fish.json",   "name": "摸鱼儿3" },
+
+        //   { "url": "http://www.小不点.com",   "name": "摸鱼儿" },
+
+            { "url": "http:/我不是.摸鱼儿.top",   "name": "摸鱼2" },
+
+            { "url": "https://6800.kstore.vip/fish.json",   "name": "摸鱼儿3" },
             
-             
+       
             
-        { "url": "http://tvbox.王二小放牛娃.top",  "name": "🚀放牛娃2" },
+           { "url": "http://tvbox.王二小放牛娃.top",  "name": "🚀放牛娃2" },
 
             
            { "url": "https://9280.kstore.vip/wex.json",  "name": "放牛娃" },
@@ -37,11 +40,11 @@
             
          { "url": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/fty.json","name": "🚀fty饭"  },
     
-      //{ "url": "http://175.178.251.183:6689/tv.txt","name": "🚀懒人线路"  },
+ 
 
-        //  { "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/liu673cn/box/main/m.json",  "name": "🚀老刘备" },
+        { "url": "https://github.tbap.top/https://raw.githubusercontent.com/zengjing0620/tvbox/main/zy_4k.json",  "name": "🚀曾_4k" },
 
-       // { "url": "https://jsdelivr.pai233.top/gh/6ai6/tvbox@master/0821.json",  "name": "🚀多和全+0821" },
+       { "url": "https://github.tbap.top/https://raw.githubusercontent.com/zengjing0620/tvbox/refs/heads/main/zy_video.json",  "name": "🚀曾_普通" },
 
             
      { "url": "https://github.boki.moe/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",    "name": "🚀0826+jsm" },
